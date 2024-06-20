@@ -1,0 +1,53 @@
+.menu{
+  margin-bottom:10px;
+}
+.btn{
+  padding:10px;
+  background-color: white;
+  border:2px solid blue;
+  border-radius:10px;
+}
+.input{
+  height:30px;
+  border:2px solid blue;
+  border-radius:10px;
+}
+.btn:hover {
+  background-color:rgb(125, 227, 250);
+  cursor:pointer;
+}
+
+.mess{
+  width:270px;
+  height:300px;
+  border:2px solid blue;
+  border-radius:10px;
+/*   background-color:blue; */
+}
+.mess1{
+  padding:10px;
+  border:2px solid blue;
+  border-radius:10px;
+/*   margin: 10px 100px 1px 0px; */
+  margin-left:130px;
+  width:100px;
+/*   text-align:right; */
+  display:block;
+}
+.mess2{
+  padding:10px;
+  border:2px solid blue;
+  border-radius:10px;
+  margin-left:15px;
+  width:100px;
+  display:block;
+}
+.map-link{
+  padding:10px;
+  border:2px solid blue;
+  border-radius:10px;
+  margin-left:130px;
+  margin-top:10px;
+  width:100px;
+  display:block;
+}
